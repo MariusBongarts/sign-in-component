@@ -1,0 +1,17 @@
+{
+  "name": "@marius/sign-in",
+  "version": "1.0.0",
+  "description": "lightweight client side router",
+"private": true,
+  "main": "sign-in.component.js",
+  "module": "sign-in.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
